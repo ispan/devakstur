@@ -1,0 +1,9 @@
+{
+  "firebase": "devskra",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
